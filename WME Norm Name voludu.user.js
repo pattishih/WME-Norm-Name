@@ -702,7 +702,4 @@ function mainNormName(){
 }
 
 bootstrapNormName();
-WME Norm Name voludu.user.js
-Open with
-Patti TaterTot 
-(thelasttatertot.waze@gmail.com)Displaying WME Norm Name voludu.user.js.
+
